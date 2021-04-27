@@ -1723,10 +1723,6 @@ body.light hr.separator {
 
 ::-webkit-scrollbar
 {
-    width: 10px;
+    width: 0.00000000000001px;
 }
-::-webkit-scrollbar-thumb
-{
-  background: linear-gradient(transparent,#ff0505b6);
-  border-radius: 6px;
-}
+
